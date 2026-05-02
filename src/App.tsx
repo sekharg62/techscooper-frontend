@@ -5,7 +5,7 @@ import { AdminProductPage } from './pages/AdminProductPage'
 import { HomePage } from './pages/HomePage'
 import { LoginPage } from './pages/LoginPage'
 import { RegisterPage } from './pages/RegisterPage'
-import { ProductListPage } from './pages/ProductListPage'
+import { ProductListPage } from './pages/product-list'
 
 function App() {
   return (

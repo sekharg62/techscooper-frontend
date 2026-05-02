@@ -23,4 +23,11 @@ export {
   type ProductJson,
   type ProductPageResponse,
 } from './productServices'
+export {
+  fetchUserActivities,
+  trackCategorySearch,
+  trackProductClick,
+  type ProductRecommendationRow,
+  type UserActivitiesResponse,
+} from './activityServices'
 export { STORAGE_KEYS, type StorageKey } from '../constants'

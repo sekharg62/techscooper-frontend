@@ -13,7 +13,7 @@ export interface CreateProductBody {
 }
 
 export interface ProductJson {
-  id: number
+  id: string
   name: string
   description: string
   actualPrice: string
